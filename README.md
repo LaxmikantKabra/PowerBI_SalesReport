@@ -24,11 +24,3 @@ This project involves the creation of an interactive Sales Dashboard using Power
 
 ## Screenshot:
 ![Sales Dashboard](https://github.com/laxmikantmkabra/PowerBI_SalesReport/assets/143458925/5fb2f44a-794a-4597-a514-c0c18b72f023)
-
-## Installation:
-1. Clone this repository.
-2. Open the Power BI file (`.pbix`) in Power BI Desktop.
-3. Ensure the data is connected properly and refresh the visuals if needed.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
